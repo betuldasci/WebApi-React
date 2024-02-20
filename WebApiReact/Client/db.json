@@ -1,0 +1,457 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "title": "Skin Care",
+      "desc": "Products for healthy and vibrant skin",
+      "image_slug": "skincare-image",
+      "image": "https://i.hizliresim.com/p4vptm6.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Makeup",
+      "desc": "Cosmetics to enhance beauty",
+      "image_slug": "makeup-image",
+      "image": "https://i.hizliresim.com/p4vptm6.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hair Care",
+      "desc": "Products for hair health and styling",
+      "image_slug": "haircare-image",
+      "image": "https://i.hizliresim.com/p4vptm6.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fragrances",
+      "desc": "Selection of perfumes and colognes",
+      "image_slug": "fragrances-image",
+      "image": "https://i.hizliresim.com/p4vptm6.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tools & Accessories",
+      "desc": "Brushes, applicators, and other beauty tools",
+      "image_slug": "tools-accessories-image",
+      "image": "https://i.hizliresim.com/p4vptm6.jpg"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Moisturizing Cream",
+      "categoryid": 1,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image1.jpg",
+        "image2.jpg"
+      ],
+      "price": 25,
+      "filter": [
+        "brand1",
+        "type1"
+      ],
+      "date": "2023-01-01",
+      "salesCount": 150
+    },
+    {
+      "id": 2,
+      "title": "Foundation",
+      "categoryid": 2,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image3.jpg",
+        "image4.jpg"
+      ],
+      "price": 30,
+      "filter": [
+        "shade2",
+        "type3"
+      ],
+      "date": "2023-01-02",
+      "salesCount": 120
+    },
+    {
+      "id": 3,
+      "title": "Exfoliating Scrub",
+      "categoryid": 1,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image5.jpg",
+        "image6.jpg"
+      ],
+      "price": 15,
+      "filter": [
+        "brand2",
+        "type1"
+      ],
+      "date": "2023-01-03",
+      "salesCount": 80
+    },
+    {
+      "id": 4,
+      "title": "Lipstick",
+      "categoryid": 2,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image7.jpg",
+        "image8.jpg"
+      ],
+      "price": 20,
+      "filter": [
+        "shade3",
+        "type4"
+      ],
+      "date": "2023-01-04",
+      "salesCount": 90
+    },
+    {
+      "id": 5,
+      "title": "Conditioner",
+      "categoryid": 3,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image9.jpg",
+        "image10.jpg"
+      ],
+      "price": 12,
+      "filter": [
+        "brand3",
+        "type4"
+      ],
+      "date": "2023-01-05",
+      "salesCount": 60
+    },
+    {
+      "id": 6,
+      "title": "Eau de Parfum",
+      "categoryid": 4,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image11.jpg",
+        "image12.jpg"
+      ],
+      "price": 55,
+      "filter": [
+        "brand4",
+        "type5"
+      ],
+      "date": "2023-01-06",
+      "salesCount": 40
+    },
+    {
+      "id": 7,
+      "title": "Makeup Brushes Set",
+      "categoryid": 5,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image13.jpg",
+        "image14.jpg"
+      ],
+      "price": 30,
+      "filter": [
+        "brand5",
+        "type6"
+      ],
+      "date": "2023-01-07",
+      "salesCount": 70
+    },
+    {
+      "id": 8,
+      "title": "Eyeliner",
+      "categoryid": 2,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image15.jpg",
+        "image16.jpg"
+      ],
+      "price": 18,
+      "filter": [
+        "brand6",
+        "type7"
+      ],
+      "date": "2023-01-08",
+      "salesCount": 85
+    },
+    {
+      "id": 9,
+      "title": "Shampoo",
+      "categoryid": 3,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image17.jpg",
+        "image18.jpg"
+      ],
+      "price": 13,
+      "filter": [
+        "brand7",
+        "type8"
+      ],
+      "date": "2023-01-09",
+      "salesCount": 110
+    },
+    {
+      "id": 10,
+      "title": "Body Lotion",
+      "categoryid": 1,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image19.jpg",
+        "image20.jpg"
+      ],
+      "price": 22,
+      "filter": [
+        "brand8",
+        "type1"
+      ],
+      "date": "2023-01-10",
+      "salesCount": 140
+    },
+    {
+      "id": 11,
+      "title": "Mascara",
+      "categoryid": 2,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image21.jpg",
+        "image22.jpg"
+      ],
+      "price": 24,
+      "filter": [
+        "brand9",
+        "type3"
+      ],
+      "date": "2023-01-11",
+      "salesCount": 130
+    },
+    {
+      "id": 12,
+      "title": "Hair Spray",
+      "categoryid": 3,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image23.jpg",
+        "image24.jpg"
+      ],
+      "price": 15,
+      "filter": [
+        "brand10",
+        "type4"
+      ],
+      "date": "2023-01-12",
+      "salesCount": 50
+    },
+    {
+      "id": 13,
+      "title": "Cologne",
+      "categoryid": 4,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image25.jpg",
+        "image26.jpg"
+      ],
+      "price": 60,
+      "filter": [
+        "brand11",
+        "type5"
+      ],
+      "date": "2023-01-13",
+      "salesCount": 30
+    },
+    {
+      "id": 14,
+      "title": "Face Powder",
+      "categoryid": 2,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image27.jpg",
+        "image28.jpg"
+      ],
+      "price": 26,
+      "filter": [
+        "shade4",
+        "type3"
+      ],
+      "date": "2023-01-14",
+      "salesCount": 95
+    },
+    {
+      "id": 15,
+      "title": "Facial Cleanser",
+      "categoryid": 1,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image29.jpg",
+        "image30.jpg"
+      ],
+      "price": 19,
+      "filter": [
+        "brand12",
+        "type1"
+      ],
+      "date": "2023-01-15",
+      "salesCount": 75
+    },
+    {
+      "id": 16,
+      "title": "Nail Polish",
+      "categoryid": 2,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image31.jpg",
+        "image32.jpg"
+      ],
+      "price": 9,
+      "filter": [
+        "shade5",
+        "type9"
+      ],
+      "date": "2023-01-16",
+      "salesCount": 65
+    },
+    {
+      "id": 17,
+      "title": "Hair Dye",
+      "categoryid": 3,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image33.jpg",
+        "image34.jpg"
+      ],
+      "price": 16,
+      "filter": [
+        "brand13",
+        "type10"
+      ],
+      "date": "2023-01-17",
+      "salesCount": 55
+    },
+    {
+      "id": 18,
+      "title": "Essential Oils",
+      "categoryid": 4,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image35.jpg",
+        "image36.jpg"
+      ],
+      "price": 40,
+      "filter": [
+        "brand14",
+        "type5"
+      ],
+      "date": "2023-01-18",
+      "salesCount": 45
+    },
+    {
+      "id": 19,
+      "title": "Compact Mirror",
+      "categoryid": 5,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image37.jpg",
+        "image38.jpg"
+      ],
+      "price": 5,
+      "filter": [
+        "brand15",
+        "type6"
+      ],
+      "date": "2023-01-19",
+      "salesCount": 20
+    },
+    {
+      "id": 20,
+      "title": "Facial Mask Set",
+      "categoryid": 1,
+      "image": "https://i.hizliresim.com/p4vptm6.jpg",
+      "gallery": [
+        "image39.jpg",
+        "image40.jpg"
+      ],
+      "price": 45,
+      "filter": [
+        "brand16",
+        "type1"
+      ],
+      "date": "2023-01-20",
+      "salesCount": 100
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "password": "hashedpassword789"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "password": "hashedpassword012"
+    },
+    {
+      "id": 3
+    }
+  ],
+  "Blogs": [
+    {
+      "id": 1,
+      "title": "Beauty Tips",
+      "short_desc": "Tips for a beautiful you",
+      "long_desc": "Expert advice on skincare and makeup",
+      "image": "beauty-tips-blog.jpg",
+      "date": "2023-01-03"
+    },
+    {
+      "id": 2,
+      "title": "Hair Care Guide",
+      "short_desc": "All about hair care",
+      "long_desc": "The best routines for healthy, shiny hair",
+      "image": "hair-care-blog.jpg",
+      "date": "2023-01-04"
+    }
+  ],
+  "Wishlist": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "product_id": 2,
+      "user_id": 2
+    }
+  ],
+  "Orders": [
+    {
+      "orderid": 1,
+      "user_id": 1,
+      "products": [
+        {
+          "product_id": 1,
+          "date": "2023-01-05",
+          "status": "Shipped"
+        },
+        {
+          "product_id": 2,
+          "date": "2023-01-06",
+          "status": "Processing"
+        }
+      ]
+    },
+    {
+      "orderid": 2,
+      "user_id": 2,
+      "products": [
+        {
+          "product_id": 3,
+          "date": "2023-01-07",
+          "status": "Delivered"
+        }
+      ]
+    }
+  ]
+}
